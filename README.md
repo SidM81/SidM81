@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="banner.png" alt="Banner" />
+</p>
+
+---
+
 <h1 align="center">Hey there 👋, I'm Siddharth Mishra</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Full-Stack+Dev+%7C+C%2B%2B+Lover;Ex-SDE+Intern+in+Tokyo%2C+now+building+cool+things+in+India!" alt="Typing SVG" />
@@ -75,7 +81,5 @@
 ![Open to Work](https://img.shields.io/badge/Open%20to-Collaborations-brightgreen?style=flat-square&logo=github)
 
 ---
-<p align="center">
-  <img src="banner.png" alt="Banner" />
-</p>
+
 
